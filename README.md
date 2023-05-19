@@ -26,3 +26,25 @@
 | 2 | Unity Kurulumu yapılması |
 | 3 | Unity'de bir proje oluşturulması |
 | 4 | Unity'de arayüzdeki temel öğelerin anlaşılması |
+
+
+&nbsp; \
+&nbsp; 
+
+# Kurulum
+
+Android cihazlar için: [APK Dosyası](https://drive.google.com/file/d/1TbVaWN8ipK2nmL8LwB3j9hVIWkJK-RIL/view?usp=share_link)
+
+\
+Yukarıdaki linkten APK dosyasını ANDROID cihazınıza yükleyiniz.
+* Cihazınızda **bilinmeyen kaynaklara güven** seçeneğinin aktif olması gerekmektedir.
+
+&nbsp; \
+&nbsp; 
+
+## Oyanış Videoları:
+
+* [Windows](https://youtu.be/H5qcYlI3Aa8) cihaz oynanış videosu.
+* [Android](https://youtu.be/o0Zlh0fxzo8) cihaz oynanış videosu.
+
+
