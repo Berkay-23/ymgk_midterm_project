@@ -42,7 +42,7 @@ Yukarıdaki linkten APK dosyasını ANDROID cihazınıza yükleyiniz.
 &nbsp; \
 &nbsp; 
 
-## Oyanış Videoları:
+## Oynanış Videoları:
 
 * [Windows](https://youtu.be/H5qcYlI3Aa8) cihaz oynanış videosu.
 * [Android](https://youtu.be/o0Zlh0fxzo8) cihaz oynanış videosu.
